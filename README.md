@@ -1,6 +1,6 @@
 # Glitxh's Portfolio
 
-##The Purpose of this repo is to hold the information for website
+The Purpose of this repo is to hold the information for website
 
 **Purposes of Site**
 
